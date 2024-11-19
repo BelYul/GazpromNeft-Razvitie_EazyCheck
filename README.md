@@ -7,10 +7,10 @@
 
 **По результатам наша команда стала одной из победителей по мнению ментора и по мнению заказчика.**
 
-Ознакомится с презентацией - краткими итогами проведенного тестирования, можно [здесь]([https://docs.google.com/presentation/d/1AyZzzIKxaOR489DngGYk9xFaA3iHoZ3DCsfnrzMbWfQ/edit#slide=id.p])
+Ознакомится с презентацией - краткими итогами проведенного тестирования, можно [здесь](https://docs.google.com/presentation/d/1AyZzzIKxaOR489DngGYk9xFaA3iHoZ3DCsfnrzMbWfQ/edit#slide=id.p)
 
 ___________________
 ### Ознакомиться с составленной тестовой документацией можно по ссылкам:
-[Тест-план]([(https://docs.google.com/document/d/128kADcrOx7t1g9ldUCOJL4RqXMrj8RBj88Jr21K9BAo/edit?tab=t.0])
+[Тест-план](https://docs.google.com/document/d/128kADcrOx7t1g9ldUCOJL4RqXMrj8RBj88Jr21K9BAo/edit?tab=t.0)
 
-[Чек-листы, тест-кейсы, баг-репорты, предложения по улучшению, анализ конкурентов]([https://docs.google.com/spreadsheets/d/13Kpr2x4RUtQgT-0tql39hbKnpmewtQKV7gIcm5blFyM/edit?gid=1117042019#gid=1117042019])
+[Чек-листы, тест-кейсы, баг-репорты, предложения по улучшению, анализ конкурентов](https://docs.google.com/spreadsheets/d/13Kpr2x4RUtQgT-0tql39hbKnpmewtQKV7gIcm5blFyM/edit?gid=1117042019#gid=1117042019)
